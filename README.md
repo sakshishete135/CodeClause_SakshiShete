@@ -1,1 +1,1 @@
-# CodeClause_Project1_Fake News Detection
+# CodeClause_Projects
